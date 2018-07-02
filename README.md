@@ -8,4 +8,4 @@ How do I use it?
 
 2: Extract it
 
-3: In the extracted folder, run `Installer.bat` and foldow the programs instructions
+3: In the extracted folder, run `Installer.bat` and follow the programs instructions
