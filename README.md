@@ -1,6 +1,6 @@
 # jlndk's Intercept/Interception Installer
 
-*NOTE: I did not make this program, all credits go to [jlndk](https://github.com/jlndk).*
+>I did not make this program, all credits go to [jlndk](https://github.com/jlndk).
 
 How do I use it?
 -
